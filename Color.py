@@ -101,7 +101,7 @@ def suggest_color(color_arr):
         dic[i] = get_distance(webcolors.name_to_rgb(i), color)
       sorted_dic = dict(sorted(dic.items(), key=lambda x: x[1]))
       suggested_colors += list(sorted_dic.keys())[:2]
-    suggested_colors += get_contrast_color(color_arr[0], get_cluster(webcolors.name_to_rgb(color_arr[0])))
+    # suggested_colors += get_contrast_color(color_arr[0], get_cluster(webcolors.name_to_rgb(color_arr[0])))
     return suggested_colors
 
 def filtering(category, length, breadth, height, image_path):
