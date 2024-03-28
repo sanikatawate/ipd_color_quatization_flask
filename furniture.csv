@@ -1,0 +1,52 @@
+product id,drive link,product link,category,color,material,support color,support material (metal/wooden),thumbnail image ,length,breadth,height,price
+bb01,bb01.glb,,bean bag,,velvet,,velvet,bb01.jpg,90,90,90,
+bs01,bs01.glb,,book shelf,,wood,,wood,bs01.jpg,120,320,140,6000
+bs02,bs02.glb,,bookshelf,,wood,,wood,bs02.jpg,120,320,140,
+ca01,ca01.glb,,cabinet,,plastic ,,plastic,ca01.jpg,36,24,40,10000
+ca02,ca02.glb,,cabinet,,wood,,wood,ca02.jpg,33,24,40,15000
+ca03,ca03.glb,,cabinet,,wood,,wood,ca03.jpg,33,24,40,12000
+ch01,ch01.gltf,,chair,darkslategray,,,,ch01.jpg,30,30,30,5500
+ch02,ch02.glb,,chair,,,,,,30,30,30,2000
+ch03,ch03.glb,,chair,lightgray,,lightgray,,ch03.jpg,30,30,30,5600
+ch05,ch05.glb,,chair,gainsboro,,gainsboro,,ch05.jpg,30,30,30,8529
+ch06,ch06.gltf,,chair,,,,,ch06.jpg,30,30,30,7000
+ch07,ch07.glb,,chair,,velvet,,velvet,ch07.jpg,30,30,30,
+ch08,ch08.glb,,chair,,cloth,,wood,ch08.jpg,30,30,30,
+ch10,ch10.glb,,chair,,,,wood,ch10.jpg,30,30,30,
+ch11,ch11.glb,,chair,,cloth,,metal,ch11.jpg,30,30,30,
+ch12,ch12.glb,,chair,,wood,,wood,ch12.jpg,30,30,30,
+ch04,ch04.glb,,chair ,,,white,,,30,30,30,6890
+dk01,dk01.glb,,desk,,wood,,metal,dk01.jpg,30,30,30,
+ds01,ds01.glb,,dining set,darkslategray,,rosybrown,wood,ds01.jpg,30,30,30,10520
+la02,la02.glb,,lamp,,plastic ,,metal,la02.jpg,30,30,30,1000
+la03,la03.glb,,lamp,,plastic ,,metal,la03.jpg,30,30,30,2000
+la04,la04.gltf,,lamp,,metal,,metal,la04.jpg,30,30,30,
+la05,la05.glb,,lamp,,metal,,metal,la05.jpg,30,30,30,
+ns01,ns01.glb,,night stand,,,,wood,ns01.jpg,30,30,30,1000
+ot01,ot01.glb,,ottoman,,leather,,wood,ot01.jpg,30,30,30,7520
+po01,po01.glb,,pouf,,leather,,leather,po01.jpg,30,30,30,6500
+sc01,sc01.gltf,,shoe cabinet,,wood,,wood,sc01.jpg,30,30,30,2000
+so01,so01.glb,,sofa,dimgray,,,,so01.jpg,350,95,90,10000
+so02,so02.glb,,sofa,sienna,,,,so02.jpg,350,95,90,6000
+so03,so03.glb,,sofa,rosybrown,,,,so03.jpg,350,95,90,5000
+so04,so04.glb,,sofa,,,,,so04.jpg,350,95,90,
+so05,so05.gltf,,sofa,red,leather,red,metal,so05.jpg,350,95,90,
+so06,so06.glb,,sofa,,cloth,,wood,so06.jpg,350,95,90,
+so07,so07.glb,,sofa,,cloth,,wood,so07.jpg,350,95,90,
+so08,so08.glb,,sofa,,foam,,foam,so08.jpg,350,95,90,
+so09,so09.glb,,sofa,,leather,,leather,so09.jpg,350,95,90,
+so10,so10.gltf,,sofa,,leather,,metal,so10.jpg,350,95,90,
+so11,so11.glb,,sofa,,cloth,,wood,so11.jpg,350,95,90,
+ta01,ta01.gltf,,table,rosybrown,wood,dimgray,metal,ta01.jpg,40,40,30,6520
+ta02,ta02.glb,,table,gainsboro,glass,black,glass,ta02.jpg,40,40,30,7520
+ta03,ta03.glb,,table,whitesmoke,plastic,whitesmoke,plastic,ta03.jpg,40,40,30,4000
+ta04,ta04.glb,,table,darkslategray,metal,darkslategray,metal,ta04.jpg,40,40,30,4500
+ta05,ta05.glb,,table,,metal,,metal,ta05.jpg,40,40,30,
+ta06,ta06.glb,,table,,wood,,wood,ta06.jpg,40,40,30,
+ta07,ta07.glb,,table,,ceramic,,metal,ta07.jpg,40,40,30,
+ta08,ta08.glb,,table,,wood,,wood,ta08.jpg,40,40,30,
+ta09,ta09.glb,,table,,wood,,wood,ta09.jpg,40,40,30,
+la01,la01.glb,,table lamp,lightgray,,dimgray,plastic,la01.jpg,20,20,30,1050
+wa01,wa01.glb,,wardrobe,,wood,,wood,wa01.jpg,40,40,90,15000
+wa02,wa02.glb,,wardrobe,,wood,,wood,wa02.jpg,30,30,120,
+ch09,ch09.glb,https://firebasestorage.googleapis.com/v0/b/craft-comfort-b11a0.appspot.com/o/out_13.glb?alt=media&token=d6b8835c-e308-4f4e-9ba4-85f8606ee8bc,,,,,,,,,,
