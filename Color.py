@@ -1,5 +1,4 @@
 from colorthief import ColorThief
-from sklearn.cluster import KMeans
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
