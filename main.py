@@ -11,6 +11,10 @@ os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 app.secret_key = 'super secret key'
 app.config['SESSION_TYPE'] = 'filesystem'
 
+@app.route("/", methods=['GET'])
+def healthcheck():
+    return("Hello World")
+
 @app.route("/recommend", methods=['POST'])
 def recommend_furniture():    
     file = request.files['image']
