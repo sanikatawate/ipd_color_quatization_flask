@@ -1,5 +1,4 @@
 from colorthief import ColorThief
-import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
@@ -89,7 +88,9 @@ def get_rule_base():
 rule_base = get_rule_base()
 
 
-df = pd.read_csv("furniture.csv")
+df = pd.read_csv("furniture1.csv")
+df = df[["breadth", "category", "color", "height", "image link", "length", "material", "price", "product", "product id", "product image ", "product link", "support color"]]
+
 
 def suggest_color(color_arr):
     suggested_colors  = []
